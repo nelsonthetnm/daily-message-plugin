@@ -2,7 +2,7 @@
 /*
 Plugin Name: Daily Message Plugin
 Description: A plugin to display daily messages on the home page with GitHub updates.
-Version: 1.0
+Version: 1.1
 Author: Your Name
 Update URI: https://github.com/yourusername/daily-message-plugin/releases/latest/download/
 */
